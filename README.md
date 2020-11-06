@@ -1,5 +1,5 @@
 # si3trimestre
 Ejercicios de uso de git y github
 
-#Ejercicios tercer trimestre.
+# Ejercicios tercer trimestre.
 Aurelio del Castillo del Castillo
