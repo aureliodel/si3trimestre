@@ -1,0 +1,53 @@
+[33mcommit ae284a95af2e461a096a7f7551da91b43d86ed5b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: aurelio <aureliodel.alumn@cescristorey.com>
+Date:   Fri Nov 6 17:56:13 2020 +0100
+
+    gitignore
+
+[33mcommit 5a0f888704621a472a3bc28780958749ada4c658[m
+Author: aurelio <aureliodel.alumn@cescristorey.com>
+Date:   Fri Nov 6 17:52:48 2020 +0100
+
+     l
+
+[33mcommit a2f9cc7baef8714805aae5f441f9ef6875761cb5[m
+Author: aurelio <aureliodel.alumn@cescristorey.com>
+Date:   Fri Nov 6 17:47:04 2020 +0100
+
+    p
+
+[33mcommit 0c654c5a34cb94ebaf8431b6228791b9d4f31c1f[m[33m ([m[1;33mtag: v0.2[m[33m, [m[1;31morigin/desarrollo[m[33m, [m[1;32mdesarrollo[m[33m)[m
+Author: aurelio <aureliodel.alumn@cescristorey.com>
+Date:   Fri Nov 6 14:18:09 2020 +0100
+
+    actualización
+
+[33mcommit 254b0389e33bd1c5da81996e611cd6d434c21ece[m
+Author: aurelio <aureliodel.alumn@cescristorey.com>
+Date:   Fri Nov 6 14:11:38 2020 +0100
+
+    Incluido holamundo.cpp
+
+[33mcommit 4eb92cdf973e45797c1637d2bf9d0da453ee6dbf[m
+Author: aurelio <aureliodel.alumn@cescristorey.com>
+Date:   Fri Nov 6 14:05:51 2020 +0100
+
+    modificacion gitignore
+
+[33mcommit 1ca44fb265ac9c4aa318dfa667658ac6c9f4cc7d[m[33m ([m[1;33mtag: v0.1[m[33m)[m
+Author: aurelio <aureliodel.alumn@cescristorey.com>
+Date:   Fri Nov 6 13:52:31 2020 +0100
+
+    README
+
+[33mcommit 07b3183f6533e1e496e4ab25c578337349c135b0[m
+Author: aurelio <aureliodel.alumn@cescristorey.com>
+Date:   Fri Nov 6 13:50:40 2020 +0100
+
+    README
+
+[33mcommit c863f25f2a006d07444709279febfbd6fbd28f32[m
+Author: aureliodel <73333740+aureliodel@users.noreply.github.com>
+Date:   Fri Nov 6 13:41:00 2020 +0100
+
+    Initial commit
